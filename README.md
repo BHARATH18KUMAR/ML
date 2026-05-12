@@ -6,6 +6,7 @@ Tolls used
 * Python
 * sql
 * machine learning
+* Tensorflow
 - [x] Project File Uploaded
 
 - [ ] Deployment Phases
