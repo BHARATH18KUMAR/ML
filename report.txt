@@ -1,0 +1,6 @@
+it is an regression project we can used in machine learning to find an accuracy
+1. Models are 
+    1.CNN
+    2.ANN
+    3.RNN
+    
